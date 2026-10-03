@@ -1,0 +1,17 @@
+{
+  "name": "open-bot-kit",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Little bots with personality, for any agent",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.0"
+  }
+}

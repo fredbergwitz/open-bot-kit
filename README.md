@@ -31,9 +31,19 @@ https://forgedaughter.com/bot/{name}.png
 
 Use an agent or user ID as the name, never an email: the name is part of the address. A bot you made in the creator has a share code (`b1.…`), and that works as a name too. Bots never change, so browsers and CDNs can cache them.
 
-## Status
+## Engine
 
-Early. The API is live and free; the bot engine and creator source move into this repo next.
+The engine that draws every bot lives in `src/engine`: a bot is a small versioned spec, rendered to SVG, posed by a rig and kept alive by moods and quirks. `src/api.ts` turns any name into its bot.
+
+```
+pnpm install
+pnpm test
+```
+
+## Coming next
+
+- Animated bots from the API, and a live `<forge-bot>` element that blinks and listens on your page.
+- The creator UI from [forgedaughter.com/bots](https://forgedaughter.com/bots).
 
 ## License
 
