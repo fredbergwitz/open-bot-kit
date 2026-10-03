@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Open Bot Kit: seven little bots in a row" src="assets/banner-light.png">
+  <img alt="BotKit: seven little bots in a row" src="assets/banner-light.png">
 </picture>
 
-# Open Bot Kit
+# BotKit
 
 Little bots with personality, for any agent.
 
@@ -37,3 +37,5 @@ Use an agent or user ID as the name, never an email: the name is part of the add
 ## Status
 
 Early. The code still lives in [Forge Daughter](https://github.com/fredbergwitz/forge-daughter) and moves here soon.
+
+<img alt="BotKit" src="assets/footer.png">
