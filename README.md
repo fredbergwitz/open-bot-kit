@@ -33,7 +33,11 @@ Use an agent or user ID as the name, never an email: the name is part of the add
 
 ## Status
 
-Early. The code still lives in [Forge Daughter](https://github.com/fredbergwitz/forge-daughter) and moves here soon.
+Early. The API is live and free; the bot engine and creator source move into this repo next.
+
+## License
+
+MIT
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/lineup-dark.png">
