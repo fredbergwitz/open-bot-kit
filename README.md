@@ -42,7 +42,7 @@ pnpm test
 
 ## Coming next
 
-- Animated bots from the API, and a live `<forge-bot>` element that blinks and listens on your page.
+- Animated bots from the API, and a live `<bot-kit>` element that blinks and listens on your page.
 - The creator UI from [forgedaughter.com/bots](https://forgedaughter.com/bots).
 
 ## License
