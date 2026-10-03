@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="BotKit: seven little bots in a row" src="assets/banner-light.png">
-</picture>
+<img alt="BotKit" src="assets/cover.png">
 
 # BotKit
 
@@ -38,4 +35,7 @@ Use an agent or user ID as the name, never an email: the name is part of the add
 
 Early. The code still lives in [Forge Daughter](https://github.com/fredbergwitz/forge-daughter) and moves here soon.
 
-<img alt="BotKit" src="assets/footer.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lineup-dark.png">
+  <img alt="BotKit: seven little bots in a row" src="assets/lineup-light.png">
+</picture>
